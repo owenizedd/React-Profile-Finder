@@ -43,7 +43,7 @@ class App extends React.Component {
     });
     return (
       <div className="app-container">
-        <h1 className="title">Profile Finder.</h1>
+        <h1 className="title">Profile Finder</h1>
         <input
           type="search"
           placeholder="CARI AJA BOS"
