@@ -40,6 +40,7 @@ class App extends React.Component {
             email={profile.email}
           />
         );
+      return null;
     });
     return (
       <div className="app-container">
