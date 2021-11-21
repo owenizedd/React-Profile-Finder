@@ -28,3 +28,4 @@ jobs:
         cache: 'npm'
     - run: yarn
     - run: yarn build
+    - run: yarn test
